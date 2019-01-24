@@ -1,0 +1,22 @@
+body {
+      background-color: lightblue;
+      color:darkblue;
+    }
+    h1{
+       text-align: center;
+      background-color: Red !important;
+    }
+     .backcolor { 
+       background-color: orange;
+    }
+    #tableheader {
+      font-weight: bold;
+      font-style: intalic;
+      background-color:Red
+    }
+    img {
+      width: 300px;
+        height: 200px;
+      border-color: dark blue;
+      img-align: center; 
+    }
